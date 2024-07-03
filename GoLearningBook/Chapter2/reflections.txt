@@ -1,2 +1,0 @@
-Like that the fmt.Println automatically adds spaces between arguments
-switch statements automatically break rather than fallthrough

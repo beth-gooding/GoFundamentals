@@ -1,0 +1,6 @@
+Chapter 2
+ - Like that the fmt.Println automatically adds spaces between arguments
+ - switch statements automatically break rather than fallthrough
+
+Chapter 3
+ - runes are confusing, need to read more about them
