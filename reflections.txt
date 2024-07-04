@@ -4,3 +4,6 @@ Chapter 2
 
 Chapter 3
  - runes are confusing, need to read more about them
+
+ Chapter 4
+ 
