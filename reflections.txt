@@ -6,4 +6,4 @@ Chapter 3
  - runes are confusing, need to read more about them
 
  Chapter 4
- 
+- slices are built on top of arrays which means you need to understand how it works underneath
