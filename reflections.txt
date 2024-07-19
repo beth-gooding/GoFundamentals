@@ -7,3 +7,6 @@ Chapter 3
 
  Chapter 4
 - slices are built on top of arrays which means you need to understand how it works underneath
+
+Chapter 5
+- Interesting how using camelCase for a function name means it can't be exported outside of that package
