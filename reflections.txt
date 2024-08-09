@@ -13,3 +13,6 @@ Chapter 5
 - Exercise 5.06 says you're going to calculate the square root, but it actually calculates the square
 - Closures are complicated, but cover 5.07 again and see if you can get your head around exactly how it works
 - Definitely need to come back and discuss with team again about how closures work, something isn't clicking yet.
+
+Chapter 6
+- Error handling is different but I don't see what's so annoying about it how it's often mentioned
