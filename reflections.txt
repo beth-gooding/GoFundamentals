@@ -16,3 +16,8 @@ Chapter 5
 
 Chapter 6
 - Error handling is different but I don't see what's so annoying about it how it's often mentioned
+
+Chapter 10
+- If you want to export a function, method etc, it needs to start with a capital letter
+- Lower case starting letter = no export
+- No access modifiers like Java
