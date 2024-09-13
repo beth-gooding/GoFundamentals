@@ -21,3 +21,7 @@ Chapter 10
 - If you want to export a function, method etc, it needs to start with a capital letter
 - Lower case starting letter = no export
 - No access modifiers like Java
+
+Chapter 13
+- Exercise 13.03 has something wrong with it, because the last line of my file is not being processed (try to spot the cause)
+- Even running the code from GitHub still does the same thing, so there must be something inherently wrong
